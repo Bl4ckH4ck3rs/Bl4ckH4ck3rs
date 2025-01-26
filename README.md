@@ -54,12 +54,13 @@
 <!--         kali,linux,stackoverflow,twitter,ubuntu -->
 <br>
 
-<!-- Connect with me -->
+<!-- Connect with me 
 <h2 align="center">🤝 Connect with me</h2>
 <p align="center">
 <a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="hosein khanali" height="40" width="40" /></a>
 </p>
 <br>
+-->
 
 <!-- Footer -->
 <p align="center">
